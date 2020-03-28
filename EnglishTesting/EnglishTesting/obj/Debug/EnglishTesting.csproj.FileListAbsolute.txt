@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\English_testing_windows_form\EnglishTesting\EnglishTesting\bin\Debug\EnglishTesting.exe.config
+C:\Users\Admin\Desktop\English_testing_windows_form\EnglishTesting\EnglishTesting\bin\Debug\EnglishTesting.exe
+C:\Users\Admin\Desktop\English_testing_windows_form\EnglishTesting\EnglishTesting\bin\Debug\EnglishTesting.pdb
+C:\Users\Admin\Desktop\English_testing_windows_form\EnglishTesting\EnglishTesting\obj\Debug\EnglishTesting.Properties.Resources.resources
+C:\Users\Admin\Desktop\English_testing_windows_form\EnglishTesting\EnglishTesting\obj\Debug\EnglishTesting.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\English_testing_windows_form\EnglishTesting\EnglishTesting\obj\Debug\EnglishTesting.exe
+C:\Users\Admin\Desktop\English_testing_windows_form\EnglishTesting\EnglishTesting\obj\Debug\EnglishTesting.pdb
+C:\Users\Admin\Desktop\English_testing_windows_form\EnglishTesting\EnglishTesting\obj\Debug\EnglishTesting.Form1.resources
+C:\Users\Admin\Desktop\English_testing_windows_form\EnglishTesting\EnglishTesting\obj\Debug\EnglishTesting.csprojAssemblyReference.cache
